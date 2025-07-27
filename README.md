@@ -85,33 +85,33 @@
 
     Este gráfico de dispersão 2D, onde cada ponto representa um TCC, e sua posição no mapa é determinada pelo algoritmo t-SNE, que posiciona trabalhos similares próximos uns dos outros. As cores representam os 6 cluster de temas encontrados. Ao passar o mouse sobre um ponto, o título do TCC é exibido.
 
-    ![Dispersão](img\dispersao.png)
+    ![Dispersão](img/dispersao.png)
 
-    ![Dispersão](img\dispersao_comparacao1.png)
+    ![Dispersão](img/dispersao_comparacao1.png)
 
-    ![Dispersão](img\dispersao_comparacao2.png)
+    ![Dispersão](img/dispersao_comparacao2.png)
 
     **Visualização 2: Painel de Análise de Orientadores**
 
     Para entender a contribuição dos docentes, foi criado um painel consolidado que apresenta três análises sobre os orientadores com mais trabalhos: o ranking de orientações, a distribuição de cluster de temas orientados por cada um e a produção anual em que orientaram.
 
-    ![Orientadores Ranking](img\orientadores_ranking.png)
+    ![Orientadores Ranking](img/orientadores_ranking.png)
 
-    ![Orientadores Temas](img\orientadores_temas.png)
+    ![Orientadores Temas](img/orientadores_temas.png)
 
-    ![Orientadores Tempo](img\orientadores_tempo.png)
+    ![Orientadores Tempo](img/orientadores_tempo.png)
 
     **Visualização 3: Tabela Interativa de TCCs**
     
     Uma tabela completa foi gerada para permitir a visualização da lista de Trabalhos de Conclusão de Curso coletados e o cluster associado à ele.
 
-    ![Tabela TCCs](img\tabela_geral_tccs.png)
+    ![Tabela TCCs](img/tabela_geral_tccs.png)
 
     **Visualização 5: Nuvem de Palavras por Tema**
     
     Para cada um dos 6 cluster de temas, foi gerada uma nuvem de palavras que destaca visualmente os termos mais importantes. Palavras maiores indicam maior relevância para aquele tema, oferecendo um resumo visual rápido de cada cluster.
 
-    ![Nuvem de Temas](img\nuvem_palavras_temas.png)
+    ![Nuvem de Temas](img/nuvem_palavras_temas.png)
 
 6. **Conclusão**
 
