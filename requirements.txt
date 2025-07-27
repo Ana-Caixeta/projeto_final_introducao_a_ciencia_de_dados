@@ -1,0 +1,56 @@
+# Biblioteca para requisicoes HTTP
+requests>=2.28.0
+
+# Parser HTML/XML para web scraping
+beautifulsoup4>=4.11.0
+
+# Parser XML/HTML rapido para BeautifulSoup
+lxml>=4.9.0
+
+# Manipulacao e analise de dados
+pandas>=1.5.0
+
+# Arrays numericos e computacao cientifica
+numpy>=1.21.0
+scipy>=1.9.0
+
+# Para ler e escrever arquivos Excel com pandas
+openpyxl>=3.0.0
+
+# Machine Learning em geral
+scikit-learn>=1.1.0
+
+# Processamento de Linguagem Natural (usado no script de cluster)
+spacy>=3.4.0
+
+# Clustering nao supervisionado baseado em densidade
+hdbscan>=0.8.29
+
+# Processamento de texto e analise de sentimentos (opcional)
+nltk>=3.7
+textblob>=0.17.1
+
+# Visualizacao estatica
+matplotlib>=3.5.0
+seaborn>=0.11.2
+
+# Nuvem de palavras
+wordcloud>=1.8.2
+
+# Visualizacoes interativas
+plotly>=5.10.0
+
+# Para salvar graficos do Plotly como imagens estaticas
+kaleido>=0.2.1
+
+# Para melhor formatacao de logs (usado no scraper)
+colorlog>=6.7.0
+
+# Para salvar/carregar modelos ou objetos Python
+joblib>=1.1.0
+
+# Para barras de progresso
+tqdm>=4.64.0
+
+# Manipulacao de texto com regex (geralmente incluído, mas para garantir)
+regex>=2022.7.9

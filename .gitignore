@@ -1,0 +1,37 @@
+# Arquivos e pastas do Ambiente Virtual (venv)
+# Ignora as pastas padrão de um ambiente virtual do Python.
+# As pastas no seu print (Lib, Scripts, etc.) serão ignoradas.
+/Lib/
+/Scripts/
+/Include/
+/share/
+/pyvenv.cfg
+/bin/
+
+# Nomes comuns para pastas de ambiente virtual
+venv/
+.venv/
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas de distribuição e build
+/build/
+/dist/
+*.egg-info/
+
+# Arquivos de configuração de IDEs e editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
