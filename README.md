@@ -15,20 +15,21 @@
     O projeto está organizado na seguinte estrutura de diretórios para garantir a clareza e reprodutibilidade:
 
     ```
-    projeto_final/
+    projeto_final_introducao_a_ciencia_de_dados
     │
-    ├── data/
-    │   ├── tccs_sistemas_internet_ifb.json  # Dados brutos coletados pelo scraper
-    │   └── tccs_sistemas_internet_ifb.csv   # Dados brutos coletados pelo scraper
-    │
-    ├── analysis/
-    │   ├── analise_orientadores_ranking.html # Visualizações interativas
-    │   ├── analise_orientadores_temas.html   # Visualizações interativas
-    │   ├── analise_orientadires_tempo.html   # Visualizações interativas
-    │   ├── mapa_temas_interativos.html       # Visualizações interativas
-    │   ├── nuvem_palavras_temas.png          # Imagem estática das nuvens de palavras
-    │   ├── tabela_geral_tccs.html            # Tabela final com os resultados da análise
-    │   └── tccs_clusterizados_resultado.csv  # Tabela final com os resultados da análise
+    ├── projeto_final/
+    │   ├── data/
+    │   │   ├── tccs_sistemas_internet_ifb.json  # Dados brutos coletados pelo scraper
+    │   │   └── tccs_sistemas_internet_ifb.csv   # Dados brutos coletados pelo scraper
+    │   │
+    │   ├── analysis/
+    │   │   ├── analise_orientadores_ranking.html # Visualizações interativas
+    │   │   ├── analise_orientadores_temas.html   # Visualizações interativas
+    │   │   ├── analise_orientadires_tempo.html   # Visualizações interativas
+    │   │   ├── mapa_temas_interativos.html       # Visualizações interativas
+    │   │   ├── nuvem_palavras_temas.png          # Imagem estática das nuvens de palavras
+    │   │   ├── tabela_geral_tccs.html            # Tabela final com os resultados da análise
+    │   │   └── tccs_clusterizados_resultado.csv  # Tabela final com os resultados da análise
     │
     ├── requirements.txt                     # Arquivo txt com as bibliotecas necessárias
     ├── scraper.py                           # Script para a obtenção dos dados (Web Scraping)
